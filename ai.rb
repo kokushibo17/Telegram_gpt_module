@@ -1,4 +1,4 @@
- Here's the correct Ruby code :
+
 
 require 'net/http' 
 
